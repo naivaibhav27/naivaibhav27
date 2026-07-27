@@ -42,19 +42,25 @@ Currently preparing for my MSc journey at **EPITA (France)** while building prac
 
 ---
 
-## 📂 Featured Projects
+## 🛰 Featured Research
 
-🚧 I'm currently building and publishing high-quality projects in:
+### 3D Urban Building Energy Assessment for BIPV Applications
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💬 LLM Applications
-- 👁️ Computer Vision
-- 📊 Data Analytics
-- 🌍 Geospatial AI
-- ⚡ Python Automation
+**Research Internship – Space Applications Centre (ISRO)**
 
-Stay tuned!
+**Duration:** October 2025 – February 2026
+
+#### Highlights
+
+- Developed a shadow-aware rooftop and facade solar energy assessment pipeline
+- Automated Mesh-to-Metadata generation using LOD1 building models
+- Built scalable 3D geospatial data processing workflows
+- Visualized buildings and metadata using CesiumJS
+- Optimized computational performance for urban-scale analysis
+
+**Tech Stack**
+
+Python • CesiumJS • GeoPandas • NumPy • Pandas • Trimesh • PyEmbree • JSON • Ray Tracing • QGIS
 
 ---
 
