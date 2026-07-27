@@ -69,25 +69,36 @@ Stay tuned!
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
+## 💼 Experience
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=naivaibhav27&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+### AI Research Intern
+**Space Applications Centre (ISRO)**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naivaibhav27&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-</p>
+- Developed AI-powered geospatial applications
+- Worked on rooftop solar potential analysis
+- Automated data processing using Python
+- Applied 3D GIS and computer vision concepts
 
 ---
 
-## 🔥 GitHub Streak
+### Data Science & Analytics Intern
+**Unified mentor Pvt.Ltd**
+- Built data analysis and visualization projects
+- Worked with Python, SQL and Machine Learning fundamentals
 
-<p align="center">
+---
 
-<img src="https://streak-stats.demolab.com?user=naivaibhav27&theme=github-dark&hide_border=true"/>
+---
 
-</p>
+## 🎓 Education
+
+**EPITA School of Engineering (France)**  
+Incoming MSc in Artificial Intelligence
+
+**Monark University (India)**  
+B.Sc. in Information Technology
 
 ---
 
