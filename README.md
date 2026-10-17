@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav Nai 👋
 
-### AI Engineer | Incoming MSc Artificial Intelligence Student at EPITA 🇫🇷
+### Upcoming AI Engineer | Incoming MSc Artificial Intelligence Student at EPITA 🇫🇷
 
 I am passionate about building intelligent software using **Artificial Intelligence, Machine Learning, Data Analytics, and Agentic AI**.
 
