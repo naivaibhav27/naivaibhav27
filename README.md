@@ -12,7 +12,7 @@ Currently preparing for my MSc journey at **EPITA (France)** while building prac
 
 ## 🚀 About Me
 
-- 🎓 Incoming MSc Artificial Intelligence Student at EPITA (France)
+- 🎓 MSc Artificial Intelligence Student at EPITA (France)
 - 🛰 Former AI Research Intern at ISRO – Space Applications Centre
 - 🤖 Interested in AI, Agentic AI, LLMs, Machine Learning & Computer Vision
 - 💻 Python Developer & Data Analytics Enthusiast
