@@ -101,7 +101,7 @@ Python • CesiumJS • GeoPandas • NumPy • Pandas • Trimesh • PyEmbree 
 ## 🎓 Education
 
 **EPITA School of Engineering (France)**  
-Incoming MSc in Artificial Intelligence
+MSc in Artificial Intelligence
 
 **Monark University (India)**  
 B.Sc. in Information Technology
